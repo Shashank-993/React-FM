@@ -74,7 +74,7 @@ const Weather = () => {
     }
   }, [daily]);
   return (
-    <section className="container flex flex-col w-[90%] xl:w-[89%] mx-auto gap-(--space-m) xl:flex-row xl:items-stretch">
+    <section className="container flex flex-col w-[90%] xl:w-[83%] mx-auto gap-(--space-m) xl:flex-row xl:items-stretch">
       <div className="h-full flex flex-col grow gap-(--space-m) lg:gap-(--space-l)">
         {/* location */}
         <LocationCard

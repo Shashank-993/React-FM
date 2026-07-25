@@ -1,16 +1,41 @@
-# React + Vite
+# Todo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive Todo application built as part of the Frontend Mentor challenge to practice modern frontend development with React.
 
-Currently, two official plugins are available:
+## 📸 Screenshots
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+* Add todos
+* Remove todos
+* Mark todos as completed
+* Clear completed todos
+* Filter todos by **All**, **Active**, and **Completed**
+* Fully responsive design with fluid typography
+* Light and Dark mode
+* Toast notifications
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Core Feature
 
-## Expanding the ESLint configuration
+* Drag and drop to reorder the todo list
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+* React
+* JavaScript
+* Context API with `useReducer`
+* Tailwind CSS
+* shadcn/ui
+* Component-driven architecture
+* Responsive Web Design
+
+## 📂 Installation
+
+```bash
+pnpm install
+pnpm dev
+```
+
+## 👨‍💻 Author
+
+**Shashank Mengar**
