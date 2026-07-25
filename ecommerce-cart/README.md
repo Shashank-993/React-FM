@@ -38,9 +38,7 @@ Add your deployed project link here.
 
 ## 💻 Run Locally
 
-git clone <your-repository-url>
-
-cd <project-folder>
+git clone https://github.com/Shashank-993/React-FM/tree/main/ecommerce-cart
 
 pnpm install
 
