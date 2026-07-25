@@ -34,7 +34,7 @@ A solution to the Frontend Mentor **E-commerce Product Page** challenge. This pr
 
 ## 🔗 Live Demo
 
-Add your deployed project link here.
+https://react-fm-eight.vercel.app/
 
 ## 💻 Run Locally
 
